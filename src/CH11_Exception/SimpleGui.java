@@ -1,4 +1,4 @@
-package CH11;
+package CH11_Exception;
 
 import javax.swing.*;
 import java.awt.event.*;
